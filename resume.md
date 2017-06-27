@@ -2,17 +2,24 @@ Cody De La Vara
 -------------
 codygeronimo@gmail.com | [github.com/delavara](https://github.com/delavara) | Brooklyn, NY 11213
 
+Skills / Technologies
+------------
+- **High Level**: Cloud Services, API Design, Product Development, Full Stack Web Development
+- **Core Technology**: Unix, Node.js, MongoDB, MySQL, git
+- **Web Backend**: Express, Django, Socket.io, Apache Server, Flask
+- **Programming Languages**: JavaScript (professional), Python (professional), PHP, Java, Objective-C
+- **Software Delivery**: Test-Driven Development, Continuous Integration, Version Control
+
 Education
 ------------
 **Columbia University - Columbia College** *B.A. Computer Science* Sept 2009 - May 2013
   John W. Kluge Scholars Program, Dean's List Fall 2013
   *Notable Courses* - Computer Vision, Compilers, Operating Systems, Artificial Intelligence
 
-
 Work
 ------------
 
-**Lead Software Engineer** *InsiteVR* October 2015 - Now
+**Software Engineer (1st hire)** *InsiteVR* October 2015 - Now
 - Pioneered development and release of core features across the full stack such as an organization permission system, 3D model and 360 image annotations and links, invites, and VR analytics.
 - Enhanced legacy WebGL 360 image viewer and webapp by migrating UI components to React and introducing state management with Redux, all bundled via Browserify.
 - Improved site reliability and deployment rate by adding tests, integrating a CI service, and training my team to do daily scrums and bi-weekly sprints for product development.
