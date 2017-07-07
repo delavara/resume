@@ -5,9 +5,10 @@ codygeronimo@gmail.com | [github.com/delavara](https://github.com/delavara) | Br
 Skills / Technologies
 ------------
 - **High Level**: Cloud Services, API Design, Product Development, Full Stack Web Development
-- **Core Technology**: Unix, Node.js, MongoDB, MySQL, git
+- **Core Technology**: Unix, Node.js, MongoDB, MySQL, WebGL
 - **Web Backend**: Express, Django, Socket.io, Apache Server, Flask
-- **Programming Languages**: JavaScript (professional), Python (professional), PHP, Java, Objective-C
+- **Front End**: React, Redux, three.js, browserify
+- **Programming Languages**: JavaScript (professional), Python (professional), PHP, Java
 - **Software Delivery**: Test-Driven Development, Continuous Integration, Version Control
 
 Education
@@ -20,10 +21,11 @@ Work
 ------------
 
 **Software Engineer (1st hire)** *InsiteVR* October 2015 - Now
-- Pioneered development and release of core features across the full stack such as an organization permission system, 3D model and 360 image annotations and links, invites, and VR analytics.
-- Enhanced legacy WebGL 360 image viewer and webapp by migrating UI components to React and introducing state management with Redux, all bundled via Browserify.
-- Improved site reliability and deployment rate by adding tests, integrating a CI service, and training my team to do daily scrums and bi-weekly sprints for product development.
-- Enhanced alerting and monitoring across the entire infrastructure including AWS, Heroku and Digital Ocean.
+- Owned entire development life-cycle of major web app features requested by customers.
+- Effectively scoped and executed refactor of legacy WebGL app to ensure consistent release of new features.
+- Significantly improved deploy confidence by introducing test suite and continuous integration into release workflow.
+- Increased developer productivity and communication by migrating team to bi-weekly sprints and daily scrums.
+- Earned customer confidence by introducing infrastructure monitoring to prevent and address production issues quickly.
 
 **Software Engineer** *Venmo* June 2013 - October 2015
 - Developed major features for the Pay with Venmo backend involving collaboration with different Paypal teams.  
@@ -35,3 +37,6 @@ Work
 - Built REST API for MIR3’s telephony infrastructure
 - Designed and implemented custom markup language for interactive voice dialogue
 
+Freelance/Hobby
+-----------
+- Build and manage Wordpress sites for friends and clients on AWS EC2
