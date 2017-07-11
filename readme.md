@@ -22,7 +22,7 @@ Work
 ------------
 
 **Software Engineer (1st hire)** *InsiteVR* October 2015 - Now
-- Owned backend development life-cycle of major features such as organizations, subscriptions and VR analytics.
+- Owned backend development life-cycle for major features such as organizations, subscriptions and VR analytics.
 - Effectively scoped and executed refactor of legacy WebGL app to ensure consistent release of new features.
 - Significantly improved release confidence by introducing test suite and continuous integration into release workflow.
 - Increased developer productivity and communication by migrating team to bi-weekly sprints and daily scrums.
