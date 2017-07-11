@@ -14,9 +14,8 @@ Skills / Technologies
 
 Education
 ------------
-**Columbia University - Columbia College** *B.A. Computer Science* Sept 2009 - May 2013
-
-  John W. Kluge Scholars Program, Dean's List Fall 2013
+**Columbia University - Columbia College** *B.A. Computer Science* Sept 2009 - May 2013  
+  John W. Kluge Scholars Program, Dean's List Fall 2013  
   *Notable Courses* - Computer Vision, Compilers, Advanced Databases, Operating Systems, Artificial Intelligence
 
 Work
